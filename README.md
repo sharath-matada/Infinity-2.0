@@ -1,4 +1,4 @@
-Rover
+Infinity-2.0(Rover)
 ======
 
 Github Repo of the rover being built by AAC NITK as part of Astro Committee, Engineer '17
