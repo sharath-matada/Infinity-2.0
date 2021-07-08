@@ -1,7 +1,7 @@
 Infinity-2.0(Rover)
 ======
 
-Github Repo of the rover being built by AAC NITK as part of Astro Committee, Engineer '17
+Github Repo of the rover being built by AAC NITK as part of Astro Committee, Engineer Tech Fest 2017
 
 ## Completed Updates for 2017
 
